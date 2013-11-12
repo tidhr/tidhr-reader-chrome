@@ -1,4 +1,4 @@
 tidhr-reader-chrome
 ===================
 
-Google Chrome addon for Tidhr Reader
+Google Chrome Extension for [Tidhr Reader](https://reader.tidhr.com).
